@@ -1,5 +1,8 @@
 # XY-Cartesian-PenPlotter
-This repository contain lines of codes executable in an Arduino UNO Microcontroller to prompt the working of an XY-Pen Plotter Device of my own fabrication. 
+This repository contain lines of codes executable in an Arduino UNO Microcontroller to prompt the working of an XY-Pen Plotter device of my own fabrication. The main motive was to design and fabricate a functional XY-Cartesian Pen Plotter supported by an Arduino UNO Microcontroller and to successfully operate it to draw the diagram of my choice (Nikolaus House).
+
+
+
 
 
 
