@@ -10,5 +10,5 @@ This repository contain lines of codes executable in an Arduino UNO Microcontrol
 
 
 # Explanation of the files in the repository:
-"PenPlotterCode.ino" : C++ code executable in Arduino UNO Microcontroller.
-"EC-Design_PenPlotter.jpg" : JPG Image Description of Electronic Circuit Layout of the system.
+* "PenPlotterCode.ino" : C++ code executable in Arduino UNO Microcontroller.
+* "EC-Design_PenPlotter.jpg" : JPG Image Description of Electronic Circuit Layout of the system.
