@@ -4,8 +4,4 @@ This repository contain lines of codes executable in an Arduino UNO Microcontrol
 
 
 
-
-
-
-
 ![Penplotter1](https://github.com/VisheshSadanandaBabu/XY-Cartesian-PenPlotter/assets/127391729/4c17f520-99e1-4331-9649-56752d548da5)
