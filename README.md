@@ -1,2 +1,3 @@
 # XY-Cartesian-PenPlotter
-Execution of XY-Cartesian Pen Plotter to draw a specific target diagram (Nikolaus House) using Arduino Uno
+This repository contain lines of codes executable in an Arduino UNO Microcontroller to prompt the working of an XY-Pen Plotter Device of my own fabrication. 
+![Penplotter1](https://github.com/VisheshSadanandaBabu/XY-Cartesian-PenPlotter/assets/127391729/4c17f520-99e1-4331-9649-56752d548da5)
